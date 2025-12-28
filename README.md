@@ -1,22 +1,22 @@
 # 💫 About Me:
-I’m a **Senior Backend Developer at Digital Jalebi / DJX Labs**, with a strong focus on building **scalable, reliable AI-driven systems**.
+I’m a **Senior Backend Cloud Engineer** with **5+ years of experience** designing and building **scalable, reliable backend systems**. I specialize in **microservices** and **event-driven architectures**, working extensively across **AWS** and **Google Cloud Platform**.
 
-Currently, I’m working on designing and developing **production-grade AI pipelines** for use cases such as **project management, content generation, and intelligent automation**. My work involves technologies like **Google ADK**, **LangChain**, and **LangGraph**, primarily using **TypeScript**, with an emphasis on robustness, scalability, and real-world impact.
+My core stack includes **Node.js, TypeScript, and Python**, and I enjoy solving hard problems around **system design, performance, and scalability**. Alongside traditional backend engineering, I actively build and deploy **AI agents and LLM-powered tools** using **LangChain, LangGraph, Google GenAI, and Google ADK**, integrating them into production-grade systems rather than isolated demos.
 
-I’m deeply interested in **system design and architecture for AI-native applications**, including:
+I’m particularly interested in:
 
-* AI-driven and agent-based architectures
-* A2A (agent-to-agent) systems
-* Designing and developing **MCPs**
-* Large-scale, distributed AI pipelines
+* Designing **large-scale, distributed systems**
+* AI-native and agent-based architectures (A2A systems)
+* Building **scalable AI pipelines** and MCPs
+* System design that balances **performance, reliability, and developer experience**
 
-I’m always learning and evolving, particularly in **AI system architecture and backend scalability**.
+Currently, I work as a **Senior Backend Developer at Digital Jalebi / DJX Labs**, where I combine technical leadership with data-driven decision-making to build **high-performance platforms that drive user engagement and retention**.
 
 ### 🤝 Collaboration & Interests
 
-* Open to collaborating on **large-scale, industry-grade AI pipelines**
-* Interested in contributing to and building **open-source projects**
-* Actively exploring **new ideas and their potential impact on society**
+* Collaborating on **industry-scale backend and AI systems**
+* Contributing to **open-source infrastructure and AI tooling**
+* Exploring **new ideas and their real-world societal impact**
 
 If you’re building meaningful AI systems at scale or experimenting with next-generation architectures, I’d love to connect and collaborate.
 
